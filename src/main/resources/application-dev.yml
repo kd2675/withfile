@@ -1,0 +1,7 @@
+rootPath: /home/kimd0/
+rootImagePath: /home/kimd0/image
+
+spring:
+  config:
+    activate:
+      on-profile: dev

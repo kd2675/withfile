@@ -1,0 +1,7 @@
+rootPath: C:\\
+rootImagePath: C:\\image
+
+spring:
+  config:
+    activate:
+      on-profile: local
